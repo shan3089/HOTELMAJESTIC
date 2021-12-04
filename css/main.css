@@ -310,6 +310,10 @@ padding-bottom: 10%;
  
 
 }
+.footerLogos{
+    font-style:unset;
+    color:#fff
+}
 .tm-media img{
   margin: 0.5%;
     width: 3%;
