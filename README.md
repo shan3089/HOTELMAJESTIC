@@ -1,4 +1,4 @@
-# sumitmangela.github.io/hotel
+# github.io/hotel
 
 It is a front-end for a simple hotel booking site. The site is developed using HTML/CSS and jquery plugins are used to provide extra features. There are total 5 webpages of the website.
 
@@ -22,10 +22,5 @@ This is the page which has the booking faciltiy of the hotel. The form contains 
 This page can be used to contact the hotel by filling a simple form. It also serves purpose of providing the location of hotel in google maps. The location of hotel and zoom levels of the map can be easily modified.
 
 
-# Jquey Plugins used for the website
 
-* Image slider - Slick Slider - https://github.com/kenwheeler/slick
-* Scroll to top - Scrollup - https://github.com/markgoodyear/scrollup
-* Datepicker - pickmeup - https://github.com/nazar-pc/PickMeUp
-* Spinner buttons - Handle Counter - https://github.com/nick-running/handle-counter
 
